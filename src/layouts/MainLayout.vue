@@ -26,7 +26,7 @@
     >
       <q-list>
         <q-item-label header >
-          Личный кабинет
+          Личный кабинет клиента2
         </q-item-label>
 
         <EssentialLink
@@ -73,7 +73,7 @@ const linksList = [
     link: 'https://forum.quasar.dev'
   },
   {
-    title: 'Профиль',
+    title: 'Профиль2',
     caption: 'Мой профиль',
     icon: 'rss_feed',
     link: 'https://twitter.quasar.dev'
