@@ -50,33 +50,33 @@ import EssentialLink from 'components/EssentialLink.vue'
 const linksList = [
   {
     title: 'Каталог',
-    caption: 'Каталого товаров',
-    icon: 'school',
-    link: 'https://quasar.dev'
+    caption: 'Каталого товаров и услуг',
+    icon: 'las la-car',
+    link: 'catalog'
   },
   {
     title: 'История ',
     caption: 'История обслуживания',
-    icon: 'code',
-    link: 'https://github.com/quasarframework'
+    icon: 'las la-history',
+    link: 'history'
   },
   {
-    title: 'Заказы',
-    caption: 'Текущие заказы',
-    icon: 'chat',
-    link: 'https://chat.quasar.dev'
+    title: 'Заказы в работе',
+    caption: 'Текущие заказы в работе',
+    icon: 'las la-cloud-sun-rain',
+    link: 'orders'
   },
   {
-    title: 'Мои авто',
+    title: 'Гараж',
     caption: 'Мой транспорт',
-    icon: 'record_voice_over',
-    link: 'https://forum.quasar.dev'
+    icon: 'las la-warehouse',
+    link: 'auto'
   },
   {
-    title: 'Профиль2',
+    title: 'Профиль',
     caption: 'Мой профиль',
-    icon: 'rss_feed',
-    link: 'https://twitter.quasar.dev'
+    icon: 'las la-user-cog',
+    link: 'profile'
   }
 
 ]
