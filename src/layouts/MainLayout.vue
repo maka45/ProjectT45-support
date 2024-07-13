@@ -26,7 +26,7 @@
     >
       <q-list>
         <q-item-label header >
-          Личный кабинет клиента main-todey
+          Личный кабинет main
         </q-item-label>
 
         <EssentialLink
@@ -50,33 +50,33 @@ import EssentialLink from 'components/EssentialLink.vue'
 const linksList = [
   {
     title: 'Каталог',
-    caption: 'Каталого товаров и услуг',
-    icon: 'las la-car',
-    link: 'catalog'
+    caption: 'Каталого товаров',
+    icon: 'school',
+    link: 'https://quasar.dev'
   },
   {
     title: 'История ',
     caption: 'История обслуживания',
-    icon: 'las la-history',
-    link: 'history'
+    icon: 'code',
+    link: 'https://github.com/quasarframework'
   },
   {
-    title: 'Заказы в работе',
-    caption: 'Текущие заказы в работе',
-    icon: 'las la-cloud-sun-rain',
-    link: 'orders'
+    title: 'Заказы',
+    caption: 'Текущие заказы',
+    icon: 'chat',
+    link: 'https://chat.quasar.dev'
   },
   {
-    title: 'Гараж',
+    title: 'Мои авто',
     caption: 'Мой транспорт',
-    icon: 'las la-warehouse',
-    link: 'auto'
+    icon: 'record_voice_over',
+    link: 'https://forum.quasar.dev'
   },
   {
     title: 'Профиль',
     caption: 'Мой профиль',
-    icon: 'las la-user-cog',
-    link: 'profile'
+    icon: 'rss_feed',
+    link: 'https://twitter.quasar.dev'
   }
 
 ]
