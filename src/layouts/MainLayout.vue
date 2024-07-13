@@ -26,7 +26,7 @@
     >
       <q-list>
         <q-item-label header >
-          Личный кабинет клиента
+          Личный кабинет клиента main-todey
         </q-item-label>
 
         <EssentialLink
