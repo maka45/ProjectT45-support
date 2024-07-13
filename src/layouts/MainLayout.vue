@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          BChat communication
+          Т45 детейлинг центр
         </q-toolbar-title>
 
         <div> v{{ $q.version }}</div>
